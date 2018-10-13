@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f910640-3ef6-4605-a4da-e86c371682c9" name="Default" comment="" />
+    <list default="true" id="5f910640-3ef6-4605-a4da-e86c371682c9" name="Default" comment="提交" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -25,84 +25,51 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="216">
               <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShiroConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CredentialsMatcher.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HelloController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="38" column="71" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="71" />
+            <state relative-caret-position="-2164">
+              <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/DemoApplication.java">
+      <file leaf-file-name="ShiroConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="237">
+              <caret line="81" column="36" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+              <folding>
+                <element signature="e#1456#1472#0" expanded="true" />
+                <element signature="e#3494#3495#0" expanded="true" />
+                <element signature="e#3553#3554#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AuthRealm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/AuthRealm.java">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="19" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AuthorizingRealm.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="38" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -112,6 +79,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java" />
       </list>
     </option>
@@ -122,9 +90,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -141,9 +110,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,19 +154,10 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shirodemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,50 +287,52 @@
       <option name="presentableId" value="Default" />
       <updated>1539249237060</updated>
       <workItem from="1539249241050" duration="1236000" />
+      <workItem from="1539251947669" duration="318000" />
+      <workItem from="1539312906355" duration="1831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1236000" />
+    <option name="totallyTimeSpent" value="3385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,10 +346,137 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hello.html">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/AuthRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <marker date="1524534166643" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524534166643" expanded="false" signature="146:1343" ph="..." />
+            <marker date="1524534166643" expanded="false" signature="2058:2069" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2120:2126" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2182:2193" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2238:2244" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2301:2312" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2346:2352" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="2437:3038" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3077:3351" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3444:3505" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="3574:3585" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3616:3622" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="3669:3680" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3715:3721" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="3796:3865" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3918:4001" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4088:4265" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4320:4331" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4362:4368" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4447:4671" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4734:4745" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4780:4786" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4877:4946" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4976:5054" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5098:5190" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5265:6170" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6250:6492" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6579:8168" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="8247:8258" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="8276:8282" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="8364:8662" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="8832:9575" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="9663:10277" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="10367:11071" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11155:11293" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11381:11511" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11594:12004" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12101:12526" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12623:12754" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12846:13335" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="13433:14019" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14122:14271" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14370:14731" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14853:14995" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15113:15239" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15323:15512" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15639:15961" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16093:16221" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16319:16604" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16687:16816" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16895:17002" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17095:17388" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17477:17991" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18091:18241" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18335:18710" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18812:18926" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18994:19169" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19285:19401" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19508:19606" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19688:19955" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="20021:20123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -401,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="621">
           <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
           <folding />
         </state>
@@ -415,18 +505,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="38" />
+        <state relative-caret-position="1978">
+          <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="96" column="49" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="49" />
+        <state relative-caret-position="299">
+          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -439,27 +529,244 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/AuthRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="16" column="61" lean-forward="true" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        <state relative-caret-position="230">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <marker date="1524534166643" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524534166643" expanded="false" signature="146:1343" ph="..." />
+            <marker date="1524534166643" expanded="false" signature="2058:2069" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2120:2126" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2182:2193" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2238:2244" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2301:2312" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2346:2352" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="2437:3038" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3077:3351" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3444:3505" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="3574:3585" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3616:3622" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="3669:3680" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3715:3721" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="3796:3865" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3918:4001" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4088:4265" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4320:4331" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4362:4368" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4447:4671" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4734:4745" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4780:4786" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4877:4946" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4976:5054" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5098:5190" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5265:6170" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6250:6492" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6579:8168" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="8247:8258" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="8276:8282" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="8364:8662" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="8832:9575" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="9663:10277" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="10367:11071" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11155:11293" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11381:11511" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11594:12004" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12101:12526" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12623:12754" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12846:13335" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="13433:14019" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14122:14271" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14370:14731" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14853:14995" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15113:15239" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15323:15512" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15639:15961" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16093:16221" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16319:16604" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16687:16816" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16895:17002" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17095:17388" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17477:17991" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18091:18241" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18335:18710" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18812:18926" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18994:19169" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19285:19401" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19508:19606" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19688:19955" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="20021:20123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="38" column="71" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="36" column="38" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="38" />
+          <folding>
+            <marker date="1524534166643" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1524534166643" expanded="false" signature="146:1343" ph="..." />
+            <marker date="1524534166643" expanded="false" signature="2058:2069" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2120:2126" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2182:2193" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2238:2244" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="2301:2312" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="2346:2352" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="2437:3038" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3077:3351" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3444:3505" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="3574:3585" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3616:3622" ph=" }" />
+            <marker date="1524534166643" expanded="false" signature="3669:3680" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="3715:3721" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="3796:3865" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="3918:4001" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4088:4265" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4320:4331" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4362:4368" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4447:4671" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="4734:4745" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="4780:4786" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="4877:4946" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="4976:5054" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5098:5190" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="5265:6170" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6250:6492" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="6579:8168" ph="{...}" />
+            <marker date="1524534166643" expanded="false" signature="8247:8258" ph=" { " />
+            <marker date="1524534166643" expanded="false" signature="8276:8282" ph=" }" />
+            <marker date="1524534166643" expanded="true" signature="8364:8662" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="8832:9575" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="9663:10277" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="10367:11071" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11155:11293" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11381:11511" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="11594:12004" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12101:12526" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12623:12754" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="12846:13335" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="13433:14019" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14122:14271" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14370:14731" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="14853:14995" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15113:15239" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15323:15512" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="15639:15961" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16093:16221" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16319:16604" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16687:16816" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="16895:17002" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17095:17388" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="17477:17991" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18091:18241" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18335:18710" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18812:18926" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="18994:19169" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19285:19401" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19508:19606" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="19688:19955" ph="{...}" />
+            <marker date="1524534166643" expanded="true" signature="20021:20123" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/AuthRealm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="1" />
+        <state relative-caret-position="529">
+          <caret line="32" column="35" lean-forward="false" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/CredentialsMatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="38" column="71" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="71" />
+        <state relative-caret-position="-2164">
+          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="27" column="8" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/linjngc/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="81" column="36" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="36" />
+          <folding>
+            <element signature="e#1456#1472#0" expanded="true" />
+            <element signature="e#3494#3495#0" expanded="true" />
+            <element signature="e#3553#3554#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
